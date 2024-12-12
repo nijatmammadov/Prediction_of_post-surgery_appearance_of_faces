@@ -1,5 +1,10 @@
 pix2pix generator
-![image](https://github.com/user-attachments/assets/2a3d8535-57f5-4d6c-97d8-1713597eda9f)
+
+![image](https://github.com/user-attachments/assets/da082b84-fba7-4d66-9eb7-3bd3ae27c84d)
+
 pix2pix discriminator
-![image](https://github.com/user-attachments/assets/c90b7bf1-19db-46e8-b844-4ba79b05af0c)
+![image](https://github.com/user-attachments/assets/22188327-80e0-49fb-bc02-4a606c5ad68f)
+
+
+
 
